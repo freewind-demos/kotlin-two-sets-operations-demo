@@ -1,4 +1,6 @@
-Kotlin Hello World Demo
-=======================
+Kotlin Two Sets Operations Demo
+===============================
 
-Hello world from kotlin. Open it in IDE and run `Hello.kt`
+Operations of two sets.
+
+Open `Hello.kt` in your IDE.
